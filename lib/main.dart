@@ -10,7 +10,7 @@ void main() {
         backgroundColor: Colors.blueGrey[900],
         centerTitle: true,
       ),
-      backgroundColor: Colors.grey[800],
+      backgroundColor: Colors.blueGrey,
       body: Center( child: Image(
           alignment: Alignment.center,
           image: AssetImage('./images/0_6WLqebrITTPNHwu7.gif'),
