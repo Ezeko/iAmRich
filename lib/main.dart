@@ -15,7 +15,8 @@ void main() {
           alignment: Alignment.center,
           image: AssetImage('./images/0_6WLqebrITTPNHwu7.gif'),
           ),
-    )),
+        ),
+    ),
     ),
   );
 }
